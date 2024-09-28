@@ -10,7 +10,7 @@
     android:orientation="vertical"
     android:gravity="center"
     tools:context=".MainActivity"
-    android:background="@drawable/background">
+    android:background="@color/black">
 
 
 
@@ -37,7 +37,8 @@
                 android:textAlignment="center"
                 android:textColor="@color/black"
                 android:textSize="36sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
 
             <androidx.appcompat.widget.SearchView
                 android:id="@+id/search"
@@ -61,7 +62,8 @@
                 android:backgroundTint="@color/black"
                 android:text="Enter"
                 android:textSize="18sp"
-                app:cornerRadius='20dp' />
+                app:cornerRadius='20dp'
+                tools:ignore="HardcodedText" />
 
 
         </LinearLayout>
