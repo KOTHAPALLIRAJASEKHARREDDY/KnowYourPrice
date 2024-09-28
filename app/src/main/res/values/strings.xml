@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="col1">Sams</string>
+    <string name="coll">Vs</string>
+    <string name="col3">Costco</string>
+    <string name="name">Name</string>
+    <string name="Price">Price</string>
+    <string name="Product">Product</string>
+    <string name="Brand">Brand</string>
+    <string name="sname">samsName</string>
+    <string name="cname">CostcoName</string>
+    <string name="sprice">SamsPrice</string>
+    <string name="cprice">CostcoPrice</string>
+    <string name="sbrand">samsBrand</string>
+    <string name="cbrand">costcoBrand</string>
+
+</resources>
